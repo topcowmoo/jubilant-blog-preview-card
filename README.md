@@ -9,7 +9,7 @@
   <p align="center">
     This is a solution to the Blog preview card challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
     <br />
-    <a href="https://topcowmoo.github.io/jubilant-blog-preview-card/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/topcowmoo/jubilant-blog-preview-card"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://topcowmoo.github.io/jubilant-blog-preview-card/">Link to Deployed app</a>
