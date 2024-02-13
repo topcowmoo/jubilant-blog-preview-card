@@ -19,7 +19,7 @@ body {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 12px;
   text-align: center;
   margin-top: 40px;
   font-family: "Figtree", sans-serif;
@@ -27,6 +27,7 @@ body {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+  font-weight: bold;
 }
 
 .date {
@@ -38,8 +39,8 @@ body {
 }
 
 .small-heading {
-  width: 82px;
-  height: 29px;
+  width: 58px;
+  height: 21px;
   font-size: 14px;
   font-style: normal;
   font-weight: 800;
@@ -80,7 +81,6 @@ body {
   font-weight: 800;
   line-height: 150%;
   margin-left: 12px;
-padding-top: 15px;
 }
 
 .avatar {
@@ -107,12 +107,5 @@ padding-top: 15px;
 height: 30px;
   align-items: center;
   margin-top: 24px;
-}
-
-/* Media query for mobile devices up to 450px width */
-@media screen and (max-width: 450px) {
-  .container {
-    padding: 16px; /* Adjust padding for smaller screens */
-  }
 }
 
