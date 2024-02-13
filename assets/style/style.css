@@ -15,6 +15,7 @@ body {
   background-color: white;
   gap: 24px;
   box-shadow: 8px 8px 0px 0px #000;
+ 
 }
 
 .attribution {
@@ -79,7 +80,7 @@ body {
   font-weight: 800;
   line-height: 150%;
   margin-left: 12px;
-  padding-top: 15px;
+padding-top: 15px;
 }
 
 .avatar {
@@ -102,8 +103,16 @@ body {
 
 .icon-container {
   display: flex;
-width: 333px;
+  width: 333px;
 height: 30px;
-align-items: center;
-margin-top: 24px;
+  align-items: center;
+  margin-top: 24px;
 }
+
+/* Media query for mobile devices up to 450px width */
+@media screen and (max-width: 450px) {
+  .container {
+    padding: 16px; /* Adjust padding for smaller screens */
+  }
+}
+
